@@ -93,6 +93,7 @@ body{
 .box{
   padding: 4rem;
   border-radius: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 40px;
 }
 .box_purple{
   background-color: var(--Purple-500);
